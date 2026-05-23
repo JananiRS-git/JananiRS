@@ -107,18 +107,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JananiRS-git&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
