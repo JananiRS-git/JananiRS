@@ -25,6 +25,7 @@ AI & Data Science Student | Machine Learning Enthusiast | Java & Python Develope
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python" />
+</t>
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=flask" />
 <img src="https://skillicons.dev/icons?i=mysql" />
@@ -91,11 +92,11 @@ AI & Data Science Student | Machine Learning Enthusiast | Java & Python Develope
 <p align="left">
 
 <a href="linkedin.com/in/janani-rs-/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+
 </a>
 
 <a href="mailto:mail2rsjanani@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+
 </a>
 
 </p>
