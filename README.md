@@ -40,6 +40,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
+<a href="https://leetcode.com/u/BHTqgYBhUZ/">
+<img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
+
 </p>
 
 ---
@@ -145,6 +149,16 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
+# 💻 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=dark&font=Nunito&ext=contest"/>
+
+</p>
+
+---
+
 # 💡 Random Dev Quote
 
 <p align="center">
@@ -161,16 +175,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🚀 Developed Real-World AI Projects
 - 💻 Strong Interest in Machine Learning & Software Development
 - 📚 Continuous Learner & Problem Solver
-
----
-
-# 💻 LeetCode Progress
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
-
-</p>
 
 ---
 
