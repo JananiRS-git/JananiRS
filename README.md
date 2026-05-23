@@ -64,18 +64,6 @@ AI & Data Science Student | Machine Learning Enthusiast | Java & Python Develope
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JananiRS&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -86,21 +74,7 @@ AI & Data Science Student | Machine Learning Enthusiast | Java & Python Develope
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/https://www.linkedin.com/in/janani-rs-/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:mail2rsjanani@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
 
 <p align="center">
 
