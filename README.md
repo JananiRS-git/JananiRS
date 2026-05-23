@@ -8,6 +8,10 @@ Artificial Intelligence & Data Science Student | AI Developer | ML Enthusiast
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Flask+%7C+Java+%7C+Python+Developer;Building+Real-World+AI+Applications;Always+Learning+New+Technologies" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=JananiRS-git&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
 ---
 
 <img align="right" alt="Coding" width="320"
@@ -24,7 +28,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -40,7 +44,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-## 🛠️ Languages and Tools
+# 🛠️ Languages and Tools
 
 <p align="left">
 
@@ -103,9 +107,19 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JananiRS-git&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JananiRS-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&langs_count=8&theme=radical"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JananiRS-git&theme=radical&row=1&column=6"/>
 
 </p>
 
@@ -115,7 +129,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JananiRS-git&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=JananiRS-git&theme=radical&hide_border=false"/>
 
 </p>
 
@@ -125,7 +139,17 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JananiRS-git&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JananiRS-git&theme=react-dark"/>
+
+</p>
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 </p>
 
@@ -140,10 +164,20 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-# 💡 Quote
+# 💻 LeetCode Progress
 
 <p align="center">
 
-✨ "Building AI solutions for real-world problems." ✨
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+<p align="center">
+
+✨ I love building AI solutions for real-world problems ✨
 
 </p>
