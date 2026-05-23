@@ -111,13 +111,21 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JananiRS-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JananiRS-git&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&langs_count=8&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JananiRS-git&theme=tokyonight" />
+
+</p>
 
 # 🏆 GitHub Trophies
 
