@@ -107,14 +107,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JananiRS-git&theme=tokyonight" />
-
-</p>
-
 # 🏆 GitHub Trophies
 
 <p align="center">
