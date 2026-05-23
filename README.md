@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janani RS</h1>
 
 <h3 align="center">
-AI & Data Science Student | Machine Learning Enthusiast | Java & Python Developer
+AI & Data Science Student | Machine Learning Enthusiast | Java & Python Developer | Easy Learner
 </h3>
 
 <p align="center">
@@ -25,7 +25,6 @@ AI & Data Science Student | Machine Learning Enthusiast | Java & Python Develope
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python" />
-</t>
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=flask" />
 <img src="https://skillicons.dev/icons?i=mysql" />
@@ -46,8 +45,8 @@ AI & Data Science Student | Machine Learning Enthusiast | Java & Python Develope
 - Admin monitoring panel
 - Attractive modern UI
 
-### 💳 Quantum Fiscal Prediction
-- Loan Eligibility Prediction 
+### 💳 Quantum Fiscal Assessment Prediction
+- Loan prediction model
 - Machine Learning based prediction system
 - Fraud detection
 - Credit scoring
@@ -71,7 +70,7 @@ AI & Data Science Student | Machine Learning Enthusiast | Java & Python Develope
 
 <img src="https://github-readme-stats.vercel.app/api?username=JananiRS&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
 
@@ -91,12 +90,12 @@ AI & Data Science Student | Machine Learning Enthusiast | Java & Python Develope
 
 <p align="left">
 
-<a href="linkedin.com/in/janani-rs-/">
-
+<a href="https://linkedin.com/https://www.linkedin.com/in/janani-rs-/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:mail2rsjanani@gmail.com">
-
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
