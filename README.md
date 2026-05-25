@@ -36,13 +36,13 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:mail2rsjanani@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/BHTqgYBhUZ/">
 <img src="https://skillicons.dev/icons?i=leetcode" />
