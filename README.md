@@ -98,7 +98,7 @@ https://github.com/JananiRS-git/Restaurant-Management-System
 ---
 
 ## 💳 Quantum Fiscal Assessment Portal
-✔ Predicts whether a person has eligibility for loan approval
+✔ Predicts whether a person has eligibility for loan
 ✔ Machine Learning Based Prediction  
 ✔ Fraud Detection Integration  
 ✔ Flask Web Application  
