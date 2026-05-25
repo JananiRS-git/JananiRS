@@ -134,6 +134,8 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 ✔ Nearby Shop Recommendation  
 ✔ AI-based Product Matching  
 
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
