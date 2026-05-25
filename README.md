@@ -163,7 +163,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-# 💡 Random Dev Quote
+# 💡 Day Quote
 
 <p align="center">
 
