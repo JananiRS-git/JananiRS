@@ -109,6 +109,21 @@ https://github.com/JananiRS-git/Quantum-Fiscal-Portal
 
 ---
 
+## 🏥 Smart Hospital Management Dashboard
+✔ Professional Full Stack Healthcare Management System  
+✔ Role-Based Login for Staff & Doctors  
+✔ Live Dashboard Statistics & Analytics  
+✔ Doctor & Patient Management Modules  
+✔ Blood Donation Request Management  
+✔ Updates & Announcements Timeline  
+✔ Responsive UI with Light/Dark Mode  
+✔ Built using Next.js, TypeScript & Tailwind CSS  
+
+🔗 Project Link:  
+https://github.com/JananiRS-git/Full_Stack-Healthcare
+
+---
+
 ## 📧 Spam Email Detection
 ✔ NLP-based Spam Classifier  
 ✔ Flask Integrated Web Application  
