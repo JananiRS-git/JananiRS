@@ -46,6 +46,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </p>
 
+<br>
+<br>
+
 ---
 
 # 🛠️ Languages and Tools
@@ -66,7 +69,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </p>
 
----
+<br>
+<br>
 
 # 🚀 Featured Projects
 
