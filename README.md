@@ -36,18 +36,19 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:mail2rsjanani@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/BHTqgYBhUZ/">
 <img src="https://skillicons.dev/icons?i=leetcode" />
 </a>
 
 </p>
-
-<br>
-<br>
 
 ---
 
@@ -56,21 +57,40 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python" />
+&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=java" />
+&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=flask" />
+&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=mysql" />
+&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=sqlite" />
+&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=tensorflow" />
+&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=git" />
+&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=github" />
+&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=vscode" />
+&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=html" />
+&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=css" />
 
 </p>
 
-<br>
-<br>
+---
 
 # 🚀 Featured Projects
 
