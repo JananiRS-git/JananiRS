@@ -92,13 +92,20 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ✔ Admin Monitoring Panel  
 ✔ Reduced Manual Labor Work  
 
+🔗 Project Link:  
+https://github.com/JananiRS-git/Restaurant-Management-System
+
 ---
 
-## 💳 Loan Eligibility Prediction System
+## 💳 Quantum Fiscal Assessment Portal
+✔ Predicts whether a person has eligibility for loan approval
 ✔ Machine Learning Based Prediction  
 ✔ Fraud Detection Integration  
 ✔ Flask Web Application  
 ✔ Real-Time Verification  
+
+🔗 Project Link:  
+https://github.com/JananiRS-git/Quantum-Fiscal-Portal
 
 ---
 
@@ -107,6 +114,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ✔ Flask Integrated Web Application  
 ✔ Email Classification using ML  
 
+🔗 Project Link:  
+https://github.com/JananiRS-git/AI-Spam_email_detection
+
 ---
 
 ## 📈 Stock Price Prediction using LSTM
@@ -114,14 +124,15 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ✔ Time Series Forecasting  
 ✔ LSTM Neural Networks  
 
+🔗 Project Link:  
+https://github.com/JananiRS-git/AI-Stock_market_Prediction
+
 ---
 
 ## 🛒 AI Price Comparison App
 ✔ Geo-location Based Product Search  
 ✔ Nearby Shop Recommendation  
 ✔ AI-based Product Matching  
-
----
 
 # 🏆 GitHub Trophies
 
