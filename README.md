@@ -31,26 +31,18 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 # 🌐 Connect With Me
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/janani-rs-/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:mail2rsjanani@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/BHTqgYBhUZ/">
 <img src="https://skillicons.dev/icons?i=leetcode" />
 </a>
-
 </p>
-
----
 
 # 🛠️ Languages and Tools
 
