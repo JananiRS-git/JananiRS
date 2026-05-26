@@ -150,16 +150,6 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JananiRS-git&theme=gruvbox"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
