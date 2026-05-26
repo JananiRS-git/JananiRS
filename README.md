@@ -154,7 +154,7 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JananiRS-git&theme=radical&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JananiRS-git&theme=onedark&no-frame=true&margin-w=15&row=1"/>
 
 </p>
 
