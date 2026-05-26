@@ -174,15 +174,17 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 <p align="center">
 
-<a href="https://leetcode.com/u/BHTqgYBhUZ/">
-  <img width="420" src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=dark&font=Baloo+Bhai&ext=contest" />
-</a>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=BHTqgYBhUZ&theme=dark"/>
 
 </p>
 
+---
+
 <p align="center">
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=BHTqgYBhUZ&theme=dark"/>
+<a href="https://leetcode.com/u/BHTqgYBhUZ/">
+  <img width="420" src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=dark&font=Baloo+Bhai&ext=contest" />
+</a>
 
 </p>
 
@@ -192,7 +194,11 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=unicorn&font=ABeeZee&ext=activity" />
+<a href="https://leetcode.com/u/BHTqgYBhUZ/">
+
+<img width="850" src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=dark&font=Karma&ext=contest" />
+
+</a>
 
 </p>
 
