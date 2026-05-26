@@ -200,6 +200,8 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 </p>
 
+<br><br>
+
 ---
 
 # 💡 Day Quote
