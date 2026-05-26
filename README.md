@@ -192,15 +192,9 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 <p align="center">
 
-<a href="https://leetcode.com/u/BHTqgYBhUZ/">
-
-<img src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=unicorn&font=ABeeZee&ext=heatmap" />
-
-</a>
+<img src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=unicorn&font=ABeeZee&ext=activity" />
 
 </p>
-
-<br><br>
 
 ---
 
