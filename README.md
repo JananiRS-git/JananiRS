@@ -170,11 +170,19 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-# 💻 LeetCode Stats
+# 💻 LeetCode Journey
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=dark&font=Nunito&ext=contest"/>
+<a href="https://leetcode.com/u/BHTqgYBhUZ/">
+  <img width="420" src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=dark&font=Baloo+Bhai&ext=contest" />
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=BHTqgYBhUZ&theme=dark"/>
 
 </p>
 
